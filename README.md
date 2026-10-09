@@ -11,7 +11,10 @@ Open to research, cybersecurity, security engineering, privacy, AI security, and
 [![Website](https://img.shields.io/badge/Website-anveekshmrao.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://anveekshmrao.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anveekshmrao-0A66C2?style=flat)](https://linkedin.com/in/anveekshmrao)
 [![GitHub](https://img.shields.io/badge/GitHub-anveeksh-181717?style=flat&logo=github&logoColor=white)](https://github.com/anveeksh)
-[![Email](https://img.shields.io/badge/Email-raoanveeksh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raoanveeksh@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-anveekshmaheshrao%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anveekshmaheshrao@gmail.com)
+
+👋 **[See my animated profile page](https://anveeksh.github.io)**
 
 ---
 
@@ -214,7 +217,7 @@ I am especially interested in opportunities that combine cybersecurity, AI, priv
 - **LinkedIn:** [linkedin.com/in/anveekshmrao](https://linkedin.com/in/anveekshmrao)
 - **GitHub:** [github.com/anveeksh](https://github.com/anveeksh)
 - **YouTube:** [YouTube channel](https://youtube.com/@YOUR_HANDLE)
-- **Email:** [raoanveeksh@gmail.com](mailto:raoanveeksh@gmail.com)
+- **Email:** [anveekshmaheshrao@gmail.com](mailto:anveekshmaheshrao@gmail.com)
 
 ---
 

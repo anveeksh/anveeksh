@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-labelledby="t d">
+  <title id="t">Research</title>
+  <desc id="d">Civic A.I. Lab, Northeastern University: Graduate Student Researcher, 2026 to present. Detecting criminal recruitment and glorification content on TikTok and YouTube with multilingual datasets, classifiers, and error analysis. CACTi Lab, Northeastern University: Research Assistant, 2025 to present. Firmware, IoT, and embedded systems security, automated vulnerability discovery and security testing. AI-assisted security, Northeastern University: Research Apprenticeship, 2026 to present. What LLM agents can and can't do in security reasoning, from binary exploitation to CTF challenges.</desc>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect width="1200" height="470" rx="18" fill="#0A1530"/>
+  <text x="40" y="58" font-size="26" font-weight="600" fill="#EAF3FF">Research</text>
+  <rect x="40" y="88" width="360" height="350" rx="14" fill="#0F1F44" stroke="#1E3A70" stroke-width="1.5"/>
+  <rect x="68" y="116" width="44" height="44" rx="10" fill="#13295A" stroke="#2A4C8A" stroke-width="1.2"/>
+  <g transform="translate(78 126)" fill="none" stroke="#3CD2F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h12a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H8l-4 3v-3H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z" transform="translate(1 0)"/><path d="M19 9h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-1v3l-4-3h-5a2 2 0 0 1-2-2v-1"/></g>
+  <text x="128" y="136" font-size="21" fill="#EAF3FF" font-weight="600">Civic A.I. Lab</text>
+  <text x="128" y="158" font-size="14" fill="#7E93BA">Northeastern University</text>
+  <text x="68" y="202" font-size="16" fill="#EAF3FF">Graduate Student Researcher</text>
+  <rect x="68" y="214" width="108" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="122.0" y="231.5" font-size="13" fill="#7E93BA" text-anchor="middle">2026–present</text>
+  <text x="68" y="282" font-size="16" fill="#B4C6E6">Detecting criminal recruitment and</text>
+  <text x="68" y="305" font-size="16" fill="#B4C6E6">glorification content on TikTok and</text>
+  <text x="68" y="328" font-size="16" fill="#B4C6E6">YouTube with multilingual datasets,</text>
+  <text x="68" y="351" font-size="16" fill="#B4C6E6">classifiers, and error analysis.</text>
+  <rect x="68" y="384" width="136" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="136.0" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">Multilingual NLP</text>
+  <rect x="212" y="384" width="51" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="237.5" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">BETO</text>
+  <rect x="271" y="384" width="101" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="321.5" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">XLM-RoBERTa</text>
+  <rect x="420" y="88" width="360" height="350" rx="14" fill="#0F1F44" stroke="#1E3A70" stroke-width="1.5"/>
+  <rect x="448" y="116" width="44" height="44" rx="10" fill="#13295A" stroke="#2A4C8A" stroke-width="1.2"/>
+  <g transform="translate(458 126)" fill="none" stroke="#3CD2F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="5" width="14" height="14" rx="2"/><rect x="9" y="9" width="6" height="6" rx="1"/><path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"/></g>
+  <text x="508" y="136" font-size="21" fill="#EAF3FF" font-weight="600">CACTi Lab</text>
+  <text x="508" y="158" font-size="14" fill="#7E93BA">Northeastern University</text>
+  <text x="448" y="202" font-size="16" fill="#EAF3FF">Research Assistant</text>
+  <rect x="448" y="214" width="108" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="502.0" y="231.5" font-size="13" fill="#7E93BA" text-anchor="middle">2025–present</text>
+  <text x="448" y="282" font-size="16" fill="#B4C6E6">Firmware, IoT, and embedded</text>
+  <text x="448" y="305" font-size="16" fill="#B4C6E6">systems security, with a focus on</text>
+  <text x="448" y="328" font-size="16" fill="#B4C6E6">automated vulnerability discovery</text>
+  <text x="448" y="351" font-size="16" fill="#B4C6E6">and security testing.</text>
+  <rect x="448" y="384" width="79" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="487.5" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">Firmware</text>
+  <rect x="535" y="384" width="43" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="556.5" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">IoT</text>
+  <rect x="586" y="384" width="136" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="654.0" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">Security testing</text>
+  <rect x="800" y="88" width="360" height="350" rx="14" fill="#0F1F44" stroke="#1E3A70" stroke-width="1.5"/>
+  <rect x="828" y="116" width="44" height="44" rx="10" fill="#13295A" stroke="#2A4C8A" stroke-width="1.2"/>
+  <g transform="translate(838 126)" fill="none" stroke="#3CD2F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="22" height="18" rx="3"/><path d="M6 10l3 3-3 3M12 16h6"/></g>
+  <text x="888" y="136" font-size="21" fill="#EAF3FF" font-weight="600">AI-assisted security</text>
+  <text x="888" y="158" font-size="14" fill="#7E93BA">Northeastern University</text>
+  <text x="828" y="202" font-size="16" fill="#EAF3FF">Research Apprenticeship</text>
+  <rect x="828" y="214" width="108" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="882.0" y="231.5" font-size="13" fill="#7E93BA" text-anchor="middle">2026–present</text>
+  <text x="828" y="282" font-size="16" fill="#B4C6E6">What LLM agents can and can't do</text>
+  <text x="828" y="305" font-size="16" fill="#B4C6E6">in security reasoning, from binary</text>
+  <text x="828" y="328" font-size="16" fill="#B4C6E6">exploitation to CTF challenges, and</text>
+  <text x="828" y="351" font-size="16" fill="#B4C6E6">how humans and AI work together.</text>
+  <rect x="828" y="384" width="94" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="875.0" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">LLM agents</text>
+  <rect x="930" y="384" width="43" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="951.5" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">CTF</text>
+  <rect x="981" y="384" width="94" height="26" rx="13" fill="#0A1530" stroke="#24407A" stroke-width="1.2"/>
+  <text x="1028.0" y="401.5" font-size="13" fill="#B4C6E6" text-anchor="middle">Evaluation</text>
+</svg>

@@ -1,4 +1,4 @@
-<!-- INTRO VIDEO: on github.com, edit this file and replace the VIDEO_URL line below by dragging my_intro_github.mp4 onto it. -->
+<!-- INTRO VIDEO -->
 
 https://github.com/user-attachments/assets/98d5768b-395f-47c6-b5a4-bc2bb436abaf
 
@@ -28,97 +28,19 @@ https://github.com/user-attachments/assets/98d5768b-395f-47c6-b5a4-bc2bb436abaf
 
 I study how people interact with security systems, and how to design technology that communicates risk, uncertainty, privacy implications, and protective actions in a way people can act on. My work sits between human-centered security and applied machine learning: phishing, social engineering, security warnings, and AI-assisted security.
 
-## Research
+<img src="./assets/research.svg" width="100%" alt="Research. Civic A.I. Lab, Northeastern University: Graduate Student Researcher, 2026 to present. Detecting criminal recruitment and glorification content on TikTok and YouTube with multilingual datasets, classifiers, and error analysis. CACTi Lab, Northeastern University: Research Assistant, 2025 to present. Firmware, IoT, and embedded systems security, with a focus on automated vulnerability discovery and security testing. AI-assisted security, Northeastern University: Research Apprenticeship, 2026 to present. What LLM agents can and can't do in security reasoning, from binary exploitation to CTF challenges.">
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>Civic A.I. Lab</b><br>
-<sub>Northeastern University<br>Graduate Student Researcher, 2026–present</sub>
-<br><br>
-Computational methods for detecting criminal recruitment and glorification content on TikTok and YouTube. Multilingual dataset, terminology analysis, classification (TF-IDF baselines, BETO, XLM-RoBERTa), and error analysis.
-</td>
-<td width="33%" valign="top">
-<b>CACTi Lab</b><br>
-<sub>Northeastern University<br>Research Assistant, 2025–present</sub>
-<br><br>
-Firmware, IoT, and embedded systems security, with a focus on automated vulnerability discovery and security testing.
-</td>
-<td width="33%" valign="top">
-<b>AI-assisted cybersecurity</b><br>
-<sub>Northeastern University<br>Research Apprenticeship, 2026–present</sub>
-<br><br>
-What AI agents and large language models can and can't do in security reasoning, including CTF-style challenges, and how humans and AI should work together on security tasks.
-</td>
-</tr>
-</table>
+<img src="./assets/projects.svg" width="100%" alt="Projects. CrimeSentinel: detects criminal recruitment and glorification content on TikTok and YouTube; Python, TF-IDF, Random Forest, XGBoost, BETO, XLM-RoBERTa. PhishGuard: flags phishing URLs by combining feature extraction with rule-based and ML-assisted risk scoring; Python, scikit-learn, Random Forest, XGBoost, FastAPI. SEQR: how people respond to security information when a QR code's destination can't be classified.">
 
-## Projects
+<p align="right"><sub>Code: <a href="https://github.com/anveeksh/PhishGuard">PhishGuard on GitHub</a></sub></p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>CrimeSentinel</b><br>
-<sub>Online safety, multilingual NLP</sub>
-<br><br>
-Detecting criminal recruitment and glorification content on TikTok and YouTube. Dataset development, terminology analysis, classification, and evaluation.
-<br><br>
-<sub>Python, TF-IDF, Random Forest, XGBoost, BETO, XLM-RoBERTa</sub>
-</td>
-<td width="33%" valign="top">
-<b><a href="https://github.com/anveeksh/PhishGuard">PhishGuard</a></b><br>
-<sub>Phishing detection</sub>
-<br><br>
-Flags phishing and malicious URLs by combining URL feature extraction with rule-based and ML-assisted risk scoring. Current work: generalization and robustness.
-<br><br>
-<sub>Python, scikit-learn, Random Forest, XGBoost, FastAPI</sub>
-</td>
-<td width="33%" valign="top">
-<b>SEQR</b><br>
-<sub>Usable security, risk communication</sub>
-<br><br>
-How people interpret and respond to security information when they scan a QR code, especially when the system can't tell if the destination is safe.
-</td>
-</tr>
-</table>
+<img src="./assets/certifications.svg" width="100%" alt="Certifications: CompTIA Security+ (SY0-701), Google Cybersecurity Professional Certificate, Cisco CCST Cybersecurity, IT Specialist in Cybersecurity and Python. Also: ISO/IEC 27001:2022, Microsoft Security Copilot, and Cisco Enterprise Networking, Security, and Automation (course).">
 
-## Certifications
+<!-- To make badges verifiable, add links here once you have them, for example:
+<p align="right"><sub>Verify: <a href="CREDLY_URL">Security+</a>, <a href="CREDLY_URL">Google</a>, <a href="CREDLY_URL">CCST</a>, <a href="CREDLY_URL">IT Specialist</a></sub></p>
+-->
 
-<!-- To make each badge verifiable, wrap its <img> in a link to your Credly or issuer page:
-     <a href="https://www.credly.com/badges/..."><img ...></a> -->
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-<img src="./assets/cert-security-plus.png" width="160" alt="CompTIA Security+ badge"><br>
-<b>CompTIA Security+</b><br>
-<sub>SY0-701</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/cert-google-cybersecurity.png" width="160" alt="Google Cybersecurity Certificate badge"><br>
-<b>Google Cybersecurity</b><br>
-<sub>Professional Certificate</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/cert-cisco.png" width="160" alt="Cisco logo"><br>
-<b>Cisco CCST</b><br>
-<sub>Cybersecurity</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/cert-pearson.png" width="160" alt="Pearson logo"><br>
-<b>IT Specialist</b><br>
-<sub>Cybersecurity and Python</sub>
-</td>
-</tr>
-</table>
-
-<sub>Also: ISO/IEC 27001:2022, Microsoft Security Copilot, and Cisco Enterprise Networking, Security, and Automation (course).</sub>
-
-## Teaching and leadership
-
-**Founder, Cyber Tech Associates** (2020–present). A cybersecurity education and consulting initiative: technical training, awareness programs, digital forensics workshops, and student mentoring.
-
-I've guest lectured on IoT security and digital forensics at Alva's Institute of Engineering and Technology and Srinivas University, and spoken at 10+ universities and 30+ organizations across India and the UAE. 5,000+ students and professionals trained so far.
+<img src="./assets/teaching.svg" width="100%" alt="Teaching and leadership. Founder, Cyber Tech Associates, 2020 to present: cybersecurity education and consulting. Certified Cybersecurity Trainer, Skill India. Corporate and government cybersecurity trainer in India, 2022 to 2025. Guest lecturer in IoT and cybersecurity at Alva's Institute of Engineering and Technology, 2023 to 2025. Guest lecturer in digital and cyber forensics at Srinivas University, 2023 to present. Faculty development program for South India Education Trust with ExcelR and CyberFrat, 2025.">
 
 <details>
 <summary><b>Skills</b></summary>

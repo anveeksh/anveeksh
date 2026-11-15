@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+  <title id="t">Anveeksh M Rao, usable security and privacy researcher</title>
+  <desc id="d">A browser warning that cannot verify where a link goes. A cursor hesitates between Go back and Continue anyway.</desc>
+  <style>
+    .name { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; font-size: 66px; fill: #13213A; letter-spacing: -0.5px; }
+    .lede { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; font-size: 25px; fill: #3A4860; }
+    .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 17px; fill: #5A6880; }
+    .ui   { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .cursor { animation: hesitate 7s ease-in-out infinite; }
+    @keyframes hesitate {
+      0%, 14%   { transform: translate(0px, 0px); }
+      32%, 50%  { transform: translate(122px, 3px); }
+      64%, 72%  { transform: translate(44px, -2px); }
+      88%, 100% { transform: translate(0px, 0px); }
+    }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+
+  <rect width="1200" height="380" rx="16" fill="#EEF2F8"/>
+
+  <!-- Left: who and what -->
+  <text class="name" x="64" y="150">Anveeksh M Rao</text>
+  <text class="lede" x="64" y="204">I study how people make security decisions</text>
+  <text class="lede" x="64" y="238">when the warning itself is uncertain.</text>
+  <text class="meta" x="64" y="300">Usable security and privacy research at Northeastern University</text>
+
+  <!-- Right: the moment of decision -->
+  <rect x="690" y="50" width="446" height="280" rx="14" fill="#FFFFFF" stroke="#D5DCE8" stroke-width="1.5"/>
+  <rect x="712" y="70" width="402" height="30" rx="15" fill="#EEF2F8"/>
+  <text class="ui" x="732" y="90" font-size="14" fill="#5A6880">parking-pay.link/verify</text>
+
+  <path d="M740 122 L759 155 L721 155 Z" fill="#D13438" stroke="#D13438" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="738.5" y="131" width="3" height="12" rx="1.5" fill="#FFFFFF"/>
+  <circle cx="740" cy="148.5" r="2" fill="#FFFFFF"/>
+  <text class="ui" x="774" y="147" font-size="22" font-weight="600" fill="#13213A">This link might be unsafe</text>
+
+  <text class="ui" x="722" y="190" font-size="16" fill="#3A4860">We couldn't verify where this link goes.</text>
+  <text class="ui" x="722" y="214" font-size="16" fill="#3A4860">It may be safe. It may not.</text>
+
+  <rect x="722" y="246" width="128" height="44" rx="8" fill="#1F6FEB"/>
+  <text class="ui" x="786" y="274" font-size="17" font-weight="600" fill="#FFFFFF" text-anchor="middle">Go back</text>
+  <rect x="866" y="246" width="176" height="44" rx="8" fill="none" stroke="#B9C3D4" stroke-width="1.5"/>
+  <text class="ui" x="954" y="274" font-size="17" fill="#3A4860" text-anchor="middle">Continue anyway</text>
+
+  <g transform="translate(834 279)">
+    <g class="cursor">
+      <path d="M0 0 L0 24 L6 18.5 L10.5 28 L14.5 26.2 L10 17 L17.5 16.6 Z" fill="#13213A" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

@@ -1,10 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
-  <title id="t">Anveeksh M Rao, usable security and privacy researcher</title>
+  <title id="t">Research question: How can security systems help people decide well when the threat, the risk, or the system itself is uncertain?</title>
   <desc id="d">A browser warning that cannot verify where a link goes. A cursor hesitates between Go back and Continue anyway.</desc>
   <style>
-    .name { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; font-size: 66px; fill: #13213A; letter-spacing: -0.5px; }
-    .lede { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; font-size: 25px; fill: #3A4860; }
-    .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 17px; fill: #5A6880; }
+    .q    { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; font-size: 33px; fill: #13213A; }
     .ui   { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .cursor { animation: hesitate 7s ease-in-out infinite; }
     @keyframes hesitate {
@@ -18,11 +16,10 @@
 
   <rect width="1200" height="380" rx="16" fill="#EEF2F8"/>
 
-  <!-- Left: who and what -->
-  <text class="name" x="64" y="150">Anveeksh M Rao</text>
-  <text class="lede" x="64" y="204">I study how people make security decisions</text>
-  <text class="lede" x="64" y="238">when the warning itself is uncertain.</text>
-  <text class="meta" x="64" y="300">Usable security and privacy research at Northeastern University</text>
+  <!-- Left: the research question -->
+  <text class="q" x="64" y="148">How can security systems help people</text>
+  <text class="q" x="64" y="192">decide well when the threat, the risk,</text>
+  <text class="q" x="64" y="236">or the system itself is uncertain?</text>
 
   <!-- Right: the moment of decision -->
   <rect x="690" y="50" width="446" height="280" rx="14" fill="#FFFFFF" stroke="#D5DCE8" stroke-width="1.5"/>

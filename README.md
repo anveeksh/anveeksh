@@ -1,72 +1,106 @@
-<!-- GitHub shows the dark or light banner to match the visitor's theme. -->
+<p align="center">
+  <img src="./assets/avatar.webp" width="300" alt="Animated avatar of Anveeksh waving, next to a cartoon rottweiler, in a room full of security dashboards">
+</p>
+
+<h1 align="center">Anveeksh Mahesh Rao</h1>
+
+<p align="center">
+  <b>Cybersecurity researcher in usable security and privacy</b><br>
+  MS Cybersecurity, Khoury College of Computer Sciences, Northeastern University
+</p>
+
+<p align="center">
+  <a href="https://anveekshmrao.com"><img alt="Website" src="https://img.shields.io/badge/Website-anveekshmrao.com-1F6FEB?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/anveekshmrao"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anveekshmrao-0A66C2?style=flat-square"></a>
+  <a href="mailto:anveekshmaheshrao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anveekshmaheshrao%40gmail.com-5A6880?style=flat-square"></a>
+  <!-- TODO: add your YouTube channel URL, then uncomment:
+  <a href="YOUR_YOUTUBE_URL"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-channel-C4302B?style=flat-square"></a>
+  -->
+</p>
+
+<p align="center"><sub>The avatar animation is AI-generated.</sub></p>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Anveeksh M Rao. I study how people make security decisions when the warning itself is uncertain." src="./assets/banner-light.svg" width="100%">
+  <img alt="Research question: How can security systems help people decide well when the threat, the risk, or the system itself is uncertain?" src="./assets/banner-light.svg" width="100%">
 </picture>
 
-<p>
-  <a href="https://anveekshmrao.com"><img alt="Website: anveekshmrao.com" src="https://img.shields.io/badge/Website-anveekshmrao.com-1F6FEB?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/anveekshmrao"><img alt="LinkedIn: anveekshmrao" src="https://img.shields.io/badge/LinkedIn-anveekshmrao-0A66C2?style=flat-square"></a>
-  <!-- Add Google Scholar or ORCID here once you have a profile. -->
-</p>
+## About
 
-## What I work on
+I study how people interact with security systems, and how to design technology that communicates risk, uncertainty, privacy implications, and protective actions in a way people can act on. My work sits between human-centered security and applied machine learning: phishing, social engineering, security warnings, and AI-assisted security.
 
-I'm a usable security and privacy researcher. I look at the moment a person meets a security warning, a suspicious link, or an AI-generated scam and has to decide what to do with incomplete information. I want to know how people read those signals, how much they trust them, and how to design warnings people can actually act on.
+**Core interests:** human-centered and usable security, phishing and social engineering, security warnings and risk communication, privacy and PETs.<br>
+**Also working on:** AI security and LLM agents, multilingual NLP for online safety, firmware and IoT security.
 
-I'm finishing an M.S. in Cybersecurity at Northeastern University's Khoury College of Computer Sciences (April 2027).
+## Current research
 
-## Right now
+### Civic A.I. Lab, Northeastern University
+Graduate Student Researcher, 2026–present
 
-- **Civic A.I. Lab, Northeastern** (with Prof. Saiph Savage). Building a multilingual dataset of online criminal recruitment content from TikTok and YouTube. I work on the labeling framework, the domain glossary, and the classifiers (TF-IDF baselines, BETO, XLM-RoBERTa).
-- **Research apprenticeship, Northeastern.** Studying how LLM-based autonomous agents perform on binary exploitation and CTF challenges.
+Computational methods for detecting criminal recruitment and glorification content on TikTok and YouTube. I work on the multilingual dataset, terminology analysis, classification (TF-IDF baselines, BETO, XLM-RoBERTa), and model evaluation and error analysis.
+
+### CACTi Lab, Northeastern University
+Research Assistant, 2025–present
+
+Firmware, IoT, and embedded systems security, with a focus on automated vulnerability discovery and security testing.
+
+### AI-assisted cybersecurity
+Testing what AI agents and large language models can and can't do in security reasoning, including CTF-style challenges. Interested in how to evaluate AI security capabilities and how humans and AI should work together on security tasks.
 
 ## Selected projects
 
-<!-- TODO: confirm every repo URL below before publishing. A broken link is worse than no link. -->
-
-**[SEQR](https://github.com/anveeksh/SEQR)**<br>
-How should a QR scanner warn you when it can't tell whether the destination is safe? A risk-communication design for QR codes that no classifier can confidently label.
+**CrimeSentinel**<br>
+Multilingual detection of criminal recruitment and glorification content on TikTok and YouTube. Dataset development, terminology analysis, classification, and evaluation.<br>
+<sub>Python, TF-IDF, Random Forest, XGBoost, BETO, XLM-RoBERTa</sub>
 
 **[PhishGuard](https://github.com/anveeksh/PhishGuard)**<br>
-Machine learning model that classifies URLs as phishing or legitimate. Early results on benchmark data; not yet tested on real-world traffic.
+Machine learning system that flags phishing and malicious URLs, combining URL feature extraction with rule-based and ML-assisted risk scoring. Current work focuses on generalization and robustness.<br>
+<sub>Python, scikit-learn, Random Forest, XGBoost, FastAPI</sub>
 
-**[MultiCloud Sentinel](https://github.com/anveeksh/MultiCloud-Sentinel)**<br>
-Security control assessment across AWS and Azure environments. Built in Python and SQL.
+**Security-Enhanced QR Codes (SEQR)**<br>
+How do people interpret and respond to security information when they scan a QR code, especially when the system can't tell if the destination is safe? Usable security, warnings, and decision-making under uncertainty.
 
-## Writing
+## Teaching and leadership
 
-- *From Opportunity to Extortion.* How fake job-recruitment scams move victims toward extortion. Unpublished manuscript.
-- *Examining Cyber-Physical Vulnerabilities and Resilience in the Boston Energy Distribution Network Using Complex Network and MBRA Analysis.* Course paper. <!-- TODO: link the ResearchGate page -->
+**Founder, Cyber Tech Associates** (2020–present). A cybersecurity education and consulting initiative: technical training, awareness programs, digital forensics workshops, and student mentoring.
 
-## Teaching
-
-I've taught security since 2022: guest lectures on IoT security and digital forensics at Alva's Institute of Engineering and Technology and Srinivas University, training for corporate and government teams in India, and talks at 10+ universities and 30+ organizations across India and the UAE. 5,000+ students and professionals trained so far.
+I've guest lectured on IoT security and digital forensics at Alva's Institute of Engineering and Technology and Srinivas University, and spoken at 10+ universities and 30+ organizations across India and the UAE. 5,000+ students and professionals trained so far.
 
 <details>
-<summary><b>Education, experience, and certifications</b></summary>
+<summary><b>Skills</b></summary>
 <br>
 
-**Education**
+| Area | Skills |
+|---|---|
+| Programming | Python, Bash, SQL, JavaScript, HTML, FastAPI, REST APIs, Git |
+| Machine learning and NLP | scikit-learn, Transformers, TF-IDF, Random Forest, XGBoost, BETO, XLM-RoBERTa, text classification |
+| Security tools | Wireshark, Burp Suite, Nmap, Splunk, Autopsy, GPG |
+| Security practice | SIEM, threat intelligence, incident response, vulnerability analysis, digital forensics |
+| Systems security | Firmware, IoT, network, and wireless security |
+| Governance, risk, and privacy | NIST, ISO 27001, GDPR, HIPAA, SOC 2, risk assessment |
+| Research | Experimental design, dataset development, literature review, model evaluation, research writing, LaTeX |
 
-- M.S. Cybersecurity, Northeastern University, Khoury College of Computer Sciences (expected April 2027)
-- B.Tech, Cyber Security and Cyber Forensics, Srinivas University (2023)
+</details>
 
-**Experience**
+<details>
+<summary><b>Education and certifications</b></summary>
+<br>
 
-- Security Researcher, Northeastern University
-- Information Security Engineer Intern, ValorAI
-- Co-Founder, Cyber Tech Associates / NiyantraX (acquired by Mentorbot LLP)
-- Cybersecurity Engineer, MentorBot
-- Security Analyst Intern, Tracelay Networks GSOC
+**Northeastern University**, Boston<br>
+MS Cybersecurity, Khoury College of Computer Sciences, 2025–2027
 
-**Certifications**
+**Srinivas University**, India<br>
+B.Tech, Cyber Security and Cyber Forensics, 2020–2024
 
-CompTIA Security+ (SY0-701), Cisco CCNA, Cisco CCST, Google Cybersecurity Certificate, AI Security (Securiti)
+**Certifications:** CompTIA Security+, Cisco Certified Support Technician (Cybersecurity), Google Cybersecurity Professional Certificate, ISO/IEC 27001:2022, Microsoft Security Copilot, IT Specialist (Cybersecurity), IT Specialist (Python), Cisco Enterprise Networking, Security, and Automation
 
 </details>
 
 ---
 
-**Open to** PhD positions in usable security and privacy starting in 2027, and to security research and GRC roles. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/anveekshmrao).
+**Open to** research internships and roles in usable security, privacy, AI security, security engineering, and GRC.
+
+<sub><i>Building security that is not only technically sound, but understandable, trustworthy, and usable by the people it is meant to protect.</i></sub>

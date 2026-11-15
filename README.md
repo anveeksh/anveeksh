@@ -1,6 +1,6 @@
 <!-- INTRO VIDEO: on github.com, edit this file and replace the VIDEO_URL line below by dragging my_intro_github.mp4 onto it. -->
 
-<!-- VIDEO_URL -->
+https://github.com/user-attachments/assets/98d5768b-395f-47c6-b5a4-bc2bb436abaf
 
 <p align="center"><sub>AI-generated intro video. Turn your sound on.</sub></p>
 
